@@ -1,5 +1,3 @@
-package ikm.wang.vogitninverse.View;
-
 import android.content.Context;
 import android.opengl.GLSurfaceView;
 import android.view.MotionEvent;
