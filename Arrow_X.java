@@ -1,5 +1,3 @@
-package ikm.wang.vogitninverse.Shape;
-
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.FloatBuffer;
